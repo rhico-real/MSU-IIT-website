@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="Lab.css">
+  <script src="https://use.fontawesome.com/c7671d4e55.js"></script>
+  <title>MSU IIT</title>
+</head>
+<script type="text/javascript">
+
+</script>
+<body>
+  <header>
+    <div class="row" tabindex="1">
+      <div class="header">
+        <ul class="sub-nav">
+          <li><a href=" ">Apply</a></li>
+          <li><a href=" ">Visit  IIT</a></li>
+          <li><a href=" ">Alumni</a></li>
+          <li><a href=" ">My.IIT</a></li>
+        </ul>
+        <div class="search-box">
+          <input class="search-txt" type="text" name="" placeholder="Ask IIT...">
+          <a class="search-btn" href=""><i class="fa fa-search" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+      <div class="content">
+        <a href="LabTest.html" class="rotate-link"><img src="img/iit logo.png" class="logo" onmouseover="this.src='img/iit logos.png'" onmouseout="this.src='img/iit logo.png'">
+        <h1>MINDANAO STATE UNIVERSITY</h1>
+        <h3>ILIGAN INSTITUTE OF TECHNOLOGY</h3></a>
+      </div>
+      <div class="main">
+      <div class="main-nav">
+          <ul>
+            <li><a href="LabTest2.html">About</a></li>
+            <li><a href=" ">Admissions</a></li>
+            <li><a href=" ">Academics</a></li>
+            <li><a href=" ">Faculty & Staff</a></li>
+            <li><a href=" ">Research</a></li>
+            <li><a href=" ">Campus Life</a></li>
+            <li><a href=" ">Office & Resources</a></li>
+          </ul>
+      </div>
+      <div class="slide-container">
+        <span id="slider-image-1"></span>
+        <span id="slider-image-2"></span>
+        <span id="slider-image-3"></span>
+        <span id="slider-image-4"></span>
+        <span id="slider-image-5"></span>
+        <div class="image-container">
+          <img class="image" src="img/coet.jpg">
+          <img class="image" src="shitpic1.jpg">
+          <img class="image" src="img/prism.jpg">
+          <img class="image" src="img/footerbg2.jpg">
+          <img class="image" src="img/bio.jpg">
+        </div>
+        <div class="button-container">
+          <a href="#slider-image-1" class="slider-button"></a>
+          <a href="#slider-image-2" class="slider-button"></a>
+          <a href="#slider-image-3" class="slider-button"></a>
+          <a href="#slider-image-4" class="slider-button"></a>
+          <a href="#slider-image-5" class="slider-button"></a>
+        </div>
+      </div>
+        <div class="navigations">
+          <ul class="inline-block">
+            <li class="Prospective-Students"><a href="#">Prospective Students ></a>
+              <ul class="drop-menu">
+                <li><a href=" ">Undergraduate</a></li>
+                <li><a href=" ">Graduate</a></li>
+                <li><a href=" ">MSU SASE</a></li>
+                <li><a href=" ">At IIT</a></li>
+                <li><a href=" ">Colleges and Schools</a></li>
+            </ul>
+           </li>
+            <li class="Current-Students"><a href=" ">Current Students  ></a>
+              <ul class="drop-menu">
+                <li><a href=" ">Undergraduate</a></li>
+                <li><a href=" ">Graduate</a></li>
+                <li><a href=" ">MSU SASE</a></li>
+                <li><a href=" ">At IIT</a></li>
+                <li><a href=" ">Colleges and Schools</a></li>
+              </ul>
+            </li>
+            <li class="Faculty-and-Staff"><a href=" ">Faculty and Staff ></a>
+              <ul class="drop-menu">
+                <li><a href=" ">Undergraduate</a></li>
+                <li><a href=" ">Graduate</a></li>
+                <li><a href=" ">MSU SASE</a></li>
+                <li><a href=" ">At IIT</a></li>
+                <li><a href=" ">Colleges & Schools</a></li>
+              </ul>
+            </li>
+            <li class="Alumni-and-Friends"><a href=" ">Alumni & Friends ></a>
+              <ul class="drop-menu">
+                <li><a href=" ">Undergraduate</a></li>
+                <li><a href=" ">Graduate</a></li>
+                <li><a href=" ">MSU SASE</a></li>
+                <li><a href=" ">At IIT</a></li>
+                <li><a href=" ">Colleges & Schools</a></li>
+              </ul>
+            </li>
+        </ul>
+      </div>
+      <a href=" "><div id="msu-system-onclick" tabindex="1">
+        <li>MSU-SYSTEMS</li>
+      </div></a>
+      <div class="msu-system">
+        <ul class="msu-system-list">
+          <li><a href=" ">MSU - MAIN</a></li>
+          <li class="active"><a href=" ">MSU - IIT</a></li>
+          <li><a href=" ">MSU - GENERAL SANTOS </a></li>
+          <li><a href=" ">MSU - NAAWAN </a></li>
+          <li><a href=" ">MSU - TAWI-TAWI </a></li>
+          <li><a href=" ">MSU - MAIGO</a></li>
+        </ul>
+      </div>
+    <div class="commercial">
+      <img src="img/img/twitter 2.jpg">
+      <h2>FUTURE READY LEARNING</h2>
+      <h1>BE AN MSU-IIT TITAN!</h1>
+      <p>MSU-IIT has long been regarded as one of the top universities in the Philippines and aims to be a university of choice in Asia. IIT graduates are globally competitive and exhibit the core values of fortitude, excellence, and uprightness. Take your first step to becoming a full-fledged MSU-IIT TITAN.</p>
+      <a href=" "><h3>Apply Now</h3></a>
+    </div>
+    <div class="news-and-events">
+      <p>There is a lot happening at IIT</p>
+        <h1>NEWS AND EVENTS</h1>
+        <div class="news-and-events-pic1">
+          <a href="" class="campus-life"><img src="img/cbaa.jpg">
+           <p>MSU-IIT extends help to RITM in the fight against the Coronavirus</p>
+           <p class="read-more">Read More</p>
+         </a>
+        </div>
+        <div class="news-and-events-pic2">
+          <a href="" class="life-after-iit"><img src="img/img/covid.jpg">
+            <p class="life-after-iit">IIT suspends work and classes over COVID-19 threat</p>
+          <p class="read-more">Read More</p></a>
+        </div>
+        <div class="news-and-events-pic3">
+          <a href="" class="recreational"><img src="img/athletics.jpg"><p>Salindunong 2020, idaraos ngayong Pebrero</p>
+          <p class="read-more">Read More</p>
+          </a>
+        </div>
+      </div>
+      <a href=" "><div class="more-news-btn">
+        <p class="more-news">More News</p>
+      </div></a>
+      <a href=" "><img class="fb-logo" src="img/fb.jpg"></a>
+      <a href=" "><img class="twitter-logo" src="img/twitter.png"></a>
+      <p class="logo-texts">Click the icons and follow us on Facebook and Twitter!</p>
+      <a href=" "><img class="youtube-logo" src="img/youtube.png"></a>
+      <p class="logo-text2">Click and subscribe to our youtube channel </p>
+      <div class="promotions">
+        <div class="promotion-pic1">
+          <a href=" "><img src="img/coet1.jpg"></a>
+        </div>
+        <div class="promotion-pic2">
+          <a href=" "><img src="img/img/cbaa.jpg"></a>
+        </div>
+        <div class="promotion-pic3">
+          <a href=" "><img src="img/img/math.jpg"></a>
+        </div>
+        <div class="promotion-pic4">
+          <a href=" "><img src="img/img/gym.jpg"></a>
+        </div>
+        <div class="promotion-pic5">
+          <a href=" "><img src="img/img/coet.jpg"></a>
+        </div>
+      </div>
+      <p class="student-experience-text">STUDENT EXPERIENCE</p>
+      <p class="student-experience-text2">UPLIFT YOUR SCHOOL PRIDE</p>
+      <a href=" " class="my-iit"><p>My.IIT</p></a>
+      <p class="tabo">#TaboSaMSUIIT</p>
+      <p class="math">#MathCrackHeadSaIIT</p>
+      <p class="gym">#AnoAngKwentongGymMo</p>
+      <p class="coet">#CoetNightmares</p>
+      <div class="announcement">
+        <p class="announcement-header">FEATURES</p>
+        <p class="underline">__________</p>
+        <div class="announcement-pic1">
+          <a href=" "><img class="campus-life1" src="img/campus life.jpg">
+          <p>Life at Campus</p>
+          <img class="search-button" src="img/search-button.png">
+          <img class="chain-link" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="life-at-campus1">
+          <p>MSU-IIT offers a great experience and life inside the campus. The University has a huge variety of clubs and associations for the students to discover and different events and activities to keep the campus lively.</p>
+
+          <p class="explore">| Explore more|</p>
+        </div>
+        <div class="announcement-pic2">
+          <a href=" "><img class="alumni-and-friends2" src="img/alumni.jpg">
+          <p>Alumni and Friends</p>
+          <img class="search-button2" src="img/search-button.png">
+          <img class="chain-link2" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="alumni-and-friends-text">
+          <p>Mindanao State University – Iligan Institute of Technology is dedicated to academic excellence with a commitment for the holistic development of the individual and the society. Founded in 1968 under the provision of Republic Act (RA) 5363, MSU-IIT is known for its excellence in science and technology and its passion for extensive research and community involvement.</p>
+
+          <p class="explore">| Explore more|</p>
+        </div>
+        <div class="announcement-pic3">
+          <a href=" "><img class="centers3" src="img/centers.jpg">
+          <p>Centers & Institutes</p>
+          <img class="search-button3" src="img/search-button.png">
+          <img class="chain-link3" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="centers-text">
+          <p>The Information and Communication Technology Center (ICTC) was created to coordinate and focus IT activities in order to minimize costs as well as maximize benefits from the synergy of the various program components that would significantly contribute to a successful IT programs, among others.</p>
+
+          <p class="explore">| Explore more|</p>
+        </div>
+        <div class="announcement-pic4">
+          <a href=" "><img class="research4" src="img/research.jpg">
+          <p>Research & Extension Programs</p>
+          <img class="search-button4" src="img/search-button.png">
+          <img class="chain-link4" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="research-text">
+          <p>The MSU-IIT researchers include faculty members, visiting scholars, post-doctoral fellows, and graduate and undergraduate students, and they collaborate with colleagues across the University, at affiliated institutions, and at other research institutions.</p>
+
+          <p class="explore">| Explore more|</p>
+        </div>
+        <p class="others">Others</p>
+        <p class="others-underline">________</p>
+        <div class="announcement-pic5">
+          <a href=" "><img class="arts5" src="img/img/arts.png">
+          <p>Arts and Culture</p>
+          <img class="search-button5" src="img/search-button.png">
+          <img class="chain-link5" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="announcement-pic6">
+          <a href=" "><img class="explore6" src="img/explore.jpg">
+          <p>Explore IIT</p>
+          <img class="search-button6" src="img/search-button.png">
+          <img class="chain-link6" src="img/chainlink.png">
+          </a>
+        </div>
+        <div class="announcement-pic7">
+          <a href=" "><img class="scholarships7" src="img/scholar.jpg">
+          <p>Scholarships</p>
+          <img class="search-button7" src="img/search-button.png">
+          <img class="chain-link7" src="img/chainlink.png">
+          </a>
+        </div>
+      </div>
+        <div class="public-info">
+          <p class="text">Announcements</p>
+          <p class="underline"></p>
+          <a href=" "><img class="sase" src="img/sase.jpg"></a>
+          <a href=" "><p class="public-info-text">#MSU-SASE Results 2019 for MSU-IIT Campus</p></a>
+          <p class="public-info-text-add">Released on: March 16, 2020</p>
+          <a href=" " class="public-info-link">Read More</a>
+        </div>
+        <div class="bids">
+          <p class="header"> Invitation to Bids</p>
+          <p class="underline"></p>
+          <ul class="bids-list">
+            <li><a href=" ">Supply of labor and materials in the Construction of Conference Room, Roof Deck, TBI Building1</a></li>
+            <li><a href=" "> Supply and Delivery of various Office Supplies</a></li>
+            <li><a href=" ">Supply and Delivery of Information and Communication Technology Equipment</a></li>
+            <li><a href=" ">Supply and Delivery of Medical, Dental and Laboratory Supplies</a></li>
+          </ul>
+        </div>
+        <div class="jobs">
+          <p class="header">Jobs</p>
+          <p class="underline"></p>
+          <ul class="jobs-list">
+            <li><a href=" ">Sales Executive I</a></li>
+            <li><a href=" ">Sales Executive II</a></li>
+            <li><a href=" ">Sales Executive III</a></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+</div>
+  </header>
+  <div class="footer-bg">
+    <img src="img/iit logo.png">
+    <p class="seal-of-excellence">Seal of Excellence</p>
+    <div class="second-row">
+      <p class="header">Directory</p>
+      <br>
+      <p>Faculty, Staff, Lecturer</p>
+      <p>Colleges, Schools, Offices, E-libraries</p>
+      <br>
+      <hr>
+      <br>
+      <p class="services">Services</p>
+      <br>
+      <p>My.IIT, Online Clearance, Leave Management</p>
+      <p>Travel Order, Jobs, Invitations to Bid</p>
+    </div>
+    <div class="third-row">
+      <p class="Admissions">Admissions</p>
+      <br>
+      <p>Email:<a href=" "> admissions@g.msuiit.edu.ph</a></p>
+      <p>Telephone: +63 (063) 223 8641</p>
+      <br>
+      <hr>
+      <br>
+      <p class="Registrar">Registrar</p>
+      <br>
+      <p>Email:<a href=" "> registrar@g.msuiit.edu.ph</a></p>
+      <p>Telephone: +63 (063) 223 3794</p>
+    </div>
+    <div class="fourth-row">
+      <p class="guidance">Guidance Counselors</p>
+      <br>
+      <p>Email:<a href=" "> guidance@g.msuiit.edu.ph</a></p>
+      <p>Telephone: +63 (063) 225 4634</p>
+      <p>&emsp;&emsp;&emsp;&emsp;&emsp; +63 (063) 221 4050</p>
+    </div>
+  </div>
+  <div class="footer">
+    <p class="header">Mindanao State University <br>
+    Iligan Institute of Technology</p>
+    <p class="header-part">Andres Bonifacio Avenue, Tibanga,
+    <br>9200 Iligan City, Philippines
+    <br>Telephone: +63 (063) 221-4056
+    </p>
+    <div class="texts">
+      <p><a class="link"href="">Transparency Seal</a>
+      <br>
+      <a href=" ">Citizen's Charter</a></p>
+    </div>
+    <img class="transparency-seal" src="img/transparency-seal.png">
+    <img class="freedom-of-information" src="img/freedom-of-information.png">
+    <ul class="list">
+      <li><a href=" ">PRIVACY STATEMENT</a></li>
+      <li><a href=" ">COPYRIGHT</a></li>
+      <li><a href=" ">USAGE POLICY</a></li>
+      <li><a href=" ">TERMS AND CONDITIONS</a></li>
+      <li><a href=" ">DISCLAIMER</a></li>
+    </ul>
+  </div>
+  <div class="footest">
+    <p>&copy; 2020 MSU-Iligan Institute of Technology</p>
+    <p class="creator">Pure HTML and CSS with a little bit of Javascript.
+    <br>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conceptualized and Created by: Rhico Abueme
+    </p>
+  </div>
+  </div>
+</body>
+</html>
